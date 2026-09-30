@@ -8,7 +8,7 @@ for(let j=0; j<botoes.lenght;++){
 }
 
           botoes[i].classlist.add("ativo");
-    }
+    };
     
     
 }
